@@ -6,7 +6,7 @@
 
 ### Estudante de Ciência da Computação | Desenvolvedora em formação | Tecnologia com criatividade
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=FF69B4&center=true&vCenter=true&width=500&lines=Bem-vinda+ao+meu+perfil!;Menina+da+programa%C3%A7%C3%A3o+%F0%9F%92%BB;Desenvolvimento+Web+%7C+Banco+de+Dados+%7C+Tecnologia;Criando%2C+aprendendo+e+evoluindo+sempre+%F0%9F%92%97" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=FF69B4&center=true&vCenter=true&width=500&lines=Bem-vinda+ao+meu+perfil!;Programação%C3%A7%C3%A3o+%F0%9F%92%BB;Desenvolvimento+Web+%7C+Banco+de+Dados+%7C+Tecnologia;Criando%2C+aprendendo+e+evoluindo+sempre+%F0%9F%92%97" alt="Typing SVG" />
 
 </div>
 
@@ -18,14 +18,14 @@
 Nome: Larissa
 Usuário: larawrld
 Área: Tecnologia
-Formação: Ciência da Computação
-Foco: Desenvolvimento Web, Banco de Dados e Programação
-Atualmente: Estudando, criando projetos e evoluindo na área tech
+Formação: Análise e Desenvolvimento de Sistemas e Ciência da Computação.
+Foco: Desenvolvimento Web, Banco de Dados e Programação.
+Atualmente: Estudando, criando projetos e evoluindo na área tech!
 ```
 
 <p align="center">
   Sou estudante da área de tecnologia, com experiência em desenvolvimento, suporte técnico e criação de soluções digitais.  
-  Atualmente estou aprofundando meus conhecimentos em desenvolvimento web, banco de dados e programação, unindo tecnologia, criatividade e comunicação.
+  Atualmente estou aprofundando meus conhecimentos em desenvolvimento web, banco de dados e programação, unindo tecnologia, criatividade e comunicação!
 </p>
 
 ---
