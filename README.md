@@ -1,6 +1,13 @@
+
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=ff69b4&height=180&section=header&text=Larissa%20Marques&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&height=180&color=ff69b4&text=Larissa%20Marques&fontColor=ffffff&fontSize=45&animation=fadeIn&fontAlignY=50" />
+
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=16&pause=1000&color=FF69B4&center=true&vCenter=true&width=700&lines=Programa%C3%A7%C3%A3o+%E2%9C%A8;Desenvolvimento+Web;Banco+de+Dados;Tecnologia+com+criatividade+%F0%9F%92%97" alt="Typing SVG" />
+
+</div>
 
 # Oii, eu sou a Larissa 👩🏻‍💻💗
 
