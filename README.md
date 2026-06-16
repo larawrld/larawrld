@@ -27,7 +27,7 @@ Atualmente estou aprofundando meus conhecimentos em desenvolvimento web, banco d
 </div>
 
 ---
-
+<p> 
 ## 🌐 Onde me encontrar
 
 <div>
@@ -39,7 +39,7 @@ Atualmente estou aprofundando meus conhecimentos em desenvolvimento web, banco d
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
 </div>
-
+</p>
 ---
 
 <img src="https://komarev.com/ghpvc/?username=larawrld&color=blueviolet" alt="Profile views"/>
