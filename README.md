@@ -21,23 +21,29 @@ Atualmente estou aprofundando meus conhecimentos em desenvolvimento web, banco d
 
 ## 📊 GitHub Stats
 
-<div>
- <img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=larawrld&hide=html&layout=compact&theme=buefy" />  
- <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=larawrld&theme=buefy"/>  
+<div align="center">
+  <img width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=larawrld&hide=html&layout=compact&theme=buefy" />
+  <img width="495px" src="https://github-readme-stats.vercel.app/api?username=larawrld&theme=buefy" />
 </div>
 
----
-## <p>🌐 Onde me encontrar</p>
+<br>
 
-<div>
+---
+
+## 🌐 Onde me encontrar
+
+<div align="center">
   <a href="https://www.linkedin.com/in/larissa-marques-52b4631b8" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
-  
+
   <a href="mailto:larissamarques66@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
 </div>
----
 
-<img src="https://komarev.com/ghpvc/?username=larawrld&color=blueviolet" alt="Profile views"/>
+<br>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=larawrld&color=blueviolet" alt="Profile views"/>
+</div>
