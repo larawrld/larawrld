@@ -31,11 +31,11 @@ Atualmente estou aprofundando meus conhecimentos em desenvolvimento web, banco d
 ## 🌐 Onde me encontrar
 
 <div>
-  <a href="https://www.linkedin.com/in/SEU-LINKEDIN-AQUI" target="_blank">
+  <a href="https://www.linkedin.com/in/larissa-marques-52b4631b8" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
   
-  <a href="mailto:SEUEMAILAQUI@gmail.com">
+  <a href="mailto:larissamarques66@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
 </div>
