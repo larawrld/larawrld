@@ -23,7 +23,7 @@ Atualmente estou aprofundando meus conhecimentos em desenvolvimento web, banco d
 
 <div>
  <img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=larawrld&hide=html&layout=compact&theme=buefy" />  
- <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=seu_usuário&theme=buefy"/>  
+ <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=larawrld&theme=buefy"/>  
 </div>
 
 ---
