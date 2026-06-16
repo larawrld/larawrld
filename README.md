@@ -1,7 +1,8 @@
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=180&color=ff69b4&text=Larissa%20Marques&fontColor=ffffff&fontSize=45&animation=fadeIn&fontAlignY=50" />
+<img src="./assets/larissa_marques_github_banner.gif" width="100%" alt="Banner Larissa Marques" />
+
+</div>
 
 <br>
 
