@@ -6,7 +6,7 @@
 
 ### Estudante de Ciência da Computação | Desenvolvedora em formação | Tecnologia com criatividade
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=FF69B4&center=true&vCenter=true&width=500&lines=Bem-vinda+ao+meu+perfil!;Programação%C3%A7%C3%A3o+%F0%9F%92%BB;Desenvolvimento+Web+%7C+Banco+de+Dados+%7C+Tecnologia;Criando%2C+aprendendo+e+evoluindo+sempre+%F0%9F%92%97" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=FF69B4&center=true&vCenter=true&width=500&lines=Bem-vinda+ao+meu+perfil!;Programa%C3%A7%C3%A3o+%F0%9F%92%BB;Desenvolvimento+Web+%7C+Banco+de+Dados+%7C+Tecnologia;Criando%2C+aprendendo+e+evoluindo+sempre+%F0%9F%92%97" alt="Typing SVG" />
 
 </div>
 
