@@ -10,7 +10,7 @@
 
 </div>
 
-# Oii, eu sou a Larissa 👩🏻‍💻💗
+# Oii, eu sou a Larissa 👩🏻‍💻
 
 ### Estudante de Ciência da Computação | Desenvolvedora em formação | Tecnologia com criatividade
 
