@@ -1,140 +1,124 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=FF69B4&height=180&section=header&text=Larissa%20Marques&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+<img src="./assets/larissa_marques_github_banner.gif" width="100%" alt="Banner Larissa Marques" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&pause=1000&color=FF69B4&center=true&vCenter=true&width=800&lines=Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o+%F0%9F%92%BB;Python+%7C+Django+%7C+SQL+%7C+Power+BI;Desenvolvimento+Web+e+Dados;Sempre+aprendendo+algo+novo+%F0%9F%9A%80" />
+<br><br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=16&pause=1000&color=C778DD&center=true&vCenter=true&width=760&lines=Welcome+to+my+GitHub;Programa%C3%A7%C3%A3o+%E2%9C%A8;Desenvolvimento+Web;Banco+de+Dados;Tecnologia+com+criatividade+%F0%9F%92%9C" alt="Typing SVG"/>
 
 </div>
 
-<br>
+---
 
-# 👩🏻‍💻 Olá, eu sou a Larissa Marques
+# 👩🏻‍💻 Olá, eu sou a Larissa
 
-### Estudante de Ciência da Computação | Desenvolvedora em Formação
+### 🎓 Estudante de Ciência da Computação • Desenvolvedora em formação • Tecnologia com criatividade
 
-Atualmente atuo como estagiária na **SINFRA-MT**, desenvolvendo habilidades em tecnologia, análise de dados e soluções digitais.
+<div align="center">
 
-Tenho interesse em:
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=C778DD&center=true&vCenter=true&width=560&lines=Bem-vinda+ao+meu+perfil!;Programa%C3%A7%C3%A3o+%F0%9F%92%BB;Desenvolvimento+Web+%7C+Banco+de+Dados;Criando%2C+aprendendo+e+evoluindo+sempre+%F0%9F%92%9C" alt="Typing SVG"/>
 
-✨ Desenvolvimento Web  
-📊 Dados e Business Intelligence  
-🐍 Python e Automação  
-🗄️ Banco de Dados  
-🚀 Tecnologia e Inovação
+</div>
 
 ---
 
-## 🎀 Sobre Mim
+# 🧑🏻‍💻 About Me
 
 ```yaml
 Nome: Larissa Marques
 Usuário: larawrld
-Curso: Ciência da Computação
-Formação Técnica: Análise e Desenvolvimento de Sistemas
-Atuação: Estágio em TI na SINFRA-MT
+
+Formação:
+  - Ciência da Computação
+  - Análise e Desenvolvimento de Sistemas
+
 Foco:
-  - Python
-  - Django
-  - SQL
-  - Power BI
   - Desenvolvimento Web
-Objetivo:
-  - Crescer na área de Dados e Desenvolvimento
+  - Banco de Dados
+  - Programação
+
+Atualmente:
+  - Desenvolvendo projetos
+  - Aprendendo novas tecnologias
+  - Evoluindo na área tech 🚀
 ```
 
-💗 Sou apaixonada por tecnologia e por transformar ideias em soluções práticas.
+💜 Sou apaixonada por tecnologia e estou construindo minha jornada na programação.
 
-Atualmente desenvolvo projetos acadêmicos e pessoais para fortalecer meus conhecimentos em programação, banco de dados e desenvolvimento web.
+Atualmente desenvolvo projetos acadêmicos e pessoais para fortalecer minhas habilidades em **Desenvolvimento Web**, **Banco de Dados** e **Programação**, unindo criatividade e tecnologia.
+Sempre em busca de evolução e novos conhecimentos!
 
 ---
 
-## 🛠️ Tech Stack
+# 🛠️ Tech Stack
+
+<table>
+<tr>
+
+<td width="70%">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,python,php,mysql,git,github,vscode,figma"/>
+
+</td>
+
+<td width="30%" align="center">
+
+<img src="https://media.tenor.com/GfSX-u7VGM4AAAAj/coding.gif" width="180"/>
+
+</td>
+
+</tr>
+</table>
+
+---
+
+- 📚 Projetos acadêmicos
+- 🌐 Desenvolvimento Web (Front-end e Back-end)
+- 🗄️ Banco de Dados
+- 🐍 Python
+- 📊 SQL
+- 💡 Aprender algo novo todos os dias
+
+---
+
+# 📊 GitHub Stats
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,django,php,js,html,css,mysql,git,github,vscode" />
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=larawrld&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=larawrld&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 ---
 
-## 📈 GitHub Stats
-
-<div align="center">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=larawrld&show_icons=true&theme=transparent&title_color=FF69B4&icon_color=FF69B4&text_color=ffffff&border_color=FF69B4"/>
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=larawrld&layout=compact&title_color=FF69B4&text_color=ffffff&border_color=FF69B4"/>
-
-</div>
-
----
-
-## 🔥 Sequência de Contribuições
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=larawrld&theme=dark&ring=FF69B4&fire=FF69B4&currStreakLabel=FF69B4&border=FF69B4"/>
-
-</div>
-
----
-
-## 📊 Atividade
-
-<div align="center">
-
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=larawrld&bg_color=0D1117&color=FF69B4&line=FF69B4&point=FFFFFF&area=true&hide_border=false"/>
-
-</div>
-
----
-
-## 🚀 Projetos em Destaque
-
-### 🎲 Sistema para RPG de Mesa
-Projeto desenvolvido como TCC utilizando:
-
-- PHP
-- MySQL
-- HTML
-- CSS
-- JavaScript
-
-Objetivo: modernizar e automatizar o gerenciamento de mesas de RPG.
-
----
-
-### 🐾 Sistema de Pet Shop
-
-Sistema para cadastro e gerenciamento utilizando:
-
-- PHP
-- MySQL
-- CRUD Completo
-
----
-
-## Onde me Encontrar
+# 🌷 Onde me encontrar
 
 <div align="center">
 
 <a href="https://github.com/larawrld">
-<img src="https://img.shields.io/badge/GitHub-FF69B4?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-C778DD?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://www.linkedin.com">
-<img src="https://img.shields.io/badge/LinkedIn-FF69B4?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="https://www.linkedin.com/in/SEU-LINK">
+<img src="https://img.shields.io/badge/LinkedIn-C778DD?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:SEUEMAIL@EMAIL.COM">
+<img src="https://img.shields.io/badge/Email-C778DD?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </div>
 
-<br>
+---
 
 <div align="center">
 
-💖 Obrigada pela visita!
+✨ Obrigada por visitar meu perfil! ✨
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=FF69B4&height=120&section=footer"/>
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,50:C778DD,100:F4A6FF&height=120&section=footer"/>
 
 </div>
