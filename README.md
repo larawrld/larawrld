@@ -1,5 +1,5 @@
 <div>
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=header&color=0:ff7e5f,100:feb47b&animation=fadeIn"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=header&color=0:ff69b4,100:ffb6d9&animation=fadeIn"/>
 </div>
 
 <div align="center">
@@ -12,7 +12,7 @@
 
 ## 👩‍💻 About Me
 
-🎓 Acadêmica de Sistemas de Informação na PUC Minas  
+🎓 Acadêmica de Ciência da Computação
 💻 Desenvolvedora em formação  
 
 Sou apaixonada por tecnologia e estou no início da minha jornada na programação. Atualmente desenvolvo projetos acadêmicos para fortalecer minhas habilidades e aprender cada vez mais sobre desenvolvimento de software.
@@ -51,5 +51,5 @@ Sou apaixonada por tecnologia e estou no início da minha jornada na programaç�
 ---
 
 <div>
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:ff7e5f,100:feb47b"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:ff69b4,100:ffb6d9"/>
 </div>
