@@ -1,103 +1,140 @@
 <div align="center">
 
-<img src="./assets/larissa_marques_github_banner.gif" width="100%" alt="Banner Larissa Marques" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=FF69B4&height=180&section=header&text=Larissa%20Marques&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&pause=1000&color=FF69B4&center=true&vCenter=true&width=800&lines=Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o+%F0%9F%92%BB;Python+%7C+Django+%7C+SQL+%7C+Power+BI;Desenvolvimento+Web+e+Dados;Sempre+aprendendo+algo+novo+%F0%9F%9A%80" />
 
 </div>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=16&pause=1000&color=FF69B4&center=true&vCenter=true&width=700&lines=Programa%C3%A7%C3%A3o+%E2%9C%A8;Desenvolvimento+Web;Banco+de+Dados;Tecnologia+com+criatividade+%F0%9F%92%97" alt="Typing SVG" />
+# 👩🏻‍💻 Olá, eu sou a Larissa Marques
 
-</div>
+### Estudante de Ciência da Computação | Desenvolvedora em Formação
 
-# Oii, eu sou a Larissa 👩🏻‍💻
+Atualmente atuo como estagiária na **SINFRA-MT**, desenvolvendo habilidades em tecnologia, análise de dados e soluções digitais.
 
-### Estudante de Ciência da Computação | Desenvolvedora em formação | Tecnologia com criatividade
+Tenho interesse em:
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=FF69B4&center=true&vCenter=true&width=500&lines=Bem-vinda+ao+meu+perfil!;Programa%C3%A7%C3%A3o+%F0%9F%92%BB;Desenvolvimento+Web+%7C+Banco+de+Dados+%7C+Tecnologia;Criando%2C+aprendendo+e+evoluindo+sempre+%F0%9F%92%97" alt="Typing SVG" />
-
-</div>
+✨ Desenvolvimento Web  
+📊 Dados e Business Intelligence  
+🐍 Python e Automação  
+🗄️ Banco de Dados  
+🚀 Tecnologia e Inovação
 
 ---
 
-## 🎀 Sobre mim
+## 🎀 Sobre Mim
 
 ```yaml
-Nome: Larissa
+Nome: Larissa Marques
 Usuário: larawrld
-Área: Tecnologia
-Formação: Análise e Desenvolvimento de Sistemas e Ciência da Computação.
-Foco: Desenvolvimento Web, Banco de Dados e Programação.
-Atualmente: Estudando, criando projetos e evoluindo na área tech!
+Curso: Ciência da Computação
+Formação Técnica: Análise e Desenvolvimento de Sistemas
+Atuação: Estágio em TI na SINFRA-MT
+Foco:
+  - Python
+  - Django
+  - SQL
+  - Power BI
+  - Desenvolvimento Web
+Objetivo:
+  - Crescer na área de Dados e Desenvolvimento
 ```
 
-<p align="center">
-  Sou estudante da área de tecnologia, com experiência em desenvolvimento, suporte técnico e criação de soluções digitais.  
-  Atualmente estou aprofundando meus conhecimentos em desenvolvimento web, banco de dados e programação, unindo tecnologia, criatividade e comunicação!
-</p>
+💗 Sou apaixonada por tecnologia e por transformar ideias em soluções práticas.
+
+Atualmente desenvolvo projetos acadêmicos e pessoais para fortalecer meus conhecimentos em programação, banco de dados e desenvolvimento web.
 
 ---
 
-## 💻 Tecnologias e ferramentas
+## 🛠️ Tech Stack
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/HTML5-ff69b4?style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-ff69b4?style=for-the-badge&logo=css3&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-ff69b4?style=for-the-badge&logo=javascript&logoColor=white" />
-<img src="https://img.shields.io/badge/Python-ff69b4?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/PHP-ff69b4?style=for-the-badge&logo=php&logoColor=white" />
-<img src="https://img.shields.io/badge/MySQL-ff69b4?style=for-the-badge&logo=mysql&logoColor=white" />
-<img src="https://img.shields.io/badge/Git-ff69b4?style=for-the-badge&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub-ff69b4?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://skillicons.dev/icons?i=python,django,php,js,html,css,mysql,git,github,vscode" />
 
 </div>
 
 ---
 
-## 📊 GitHub Stats
+## 📈 GitHub Stats
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=larawrld&layout=compact&langs_count=8&title_color=ff69b4&text_color=ffffff&bg_color=0d1117&border_color=ff69b4" />
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=larawrld&show_icons=true&theme=transparent&title_color=FF69B4&icon_color=FF69B4&text_color=ffffff&border_color=FF69B4"/>
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=larawrld&show_icons=true&title_color=ff69b4&text_color=ffffff&icon_color=ff69b4&bg_color=0d1117&border_color=ff69b4" />
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=larawrld&layout=compact&title_color=FF69B4&text_color=ffffff&border_color=FF69B4"/>
 
 </div>
 
 ---
 
-## 🌸 Atividade no GitHub
+## 🔥 Sequência de Contribuições
 
 <div align="center">
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=larawrld&bg_color=0d1117&color=ff69b4&line=ff69b4&point=ffffff&area=true&hide_border=false&border_color=ff69b4" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=larawrld&theme=dark&ring=FF69B4&fire=FF69B4&currStreakLabel=FF69B4&border=FF69B4"/>
 
 </div>
 
 ---
 
-## 🌷 Onde me encontrar
+## 📊 Atividade
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/larissa-marques-52b4631b8" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-ff69b4?style=for-the-badge&logo=linkedin&logoColor=white" />
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=larawrld&bg_color=0D1117&color=FF69B4&line=FF69B4&point=FFFFFF&area=true&hide_border=false"/>
+
+</div>
+
+---
+
+## 🚀 Projetos em Destaque
+
+### 🎲 Sistema para RPG de Mesa
+Projeto desenvolvido como TCC utilizando:
+
+- PHP
+- MySQL
+- HTML
+- CSS
+- JavaScript
+
+Objetivo: modernizar e automatizar o gerenciamento de mesas de RPG.
+
+---
+
+### 🐾 Sistema de Pet Shop
+
+Sistema para cadastro e gerenciamento utilizando:
+
+- PHP
+- MySQL
+- CRUD Completo
+
+---
+
+## Onde me Encontrar
+
+<div align="center">
+
+<a href="https://github.com/larawrld">
+<img src="https://img.shields.io/badge/GitHub-FF69B4?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="mailto:larissamarques66@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-ff69b4?style=for-the-badge&logo=gmail&logoColor=white" />
+<a href="https://www.linkedin.com">
+<img src="https://img.shields.io/badge/LinkedIn-FF69B4?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 </div>
 
----
+<br>
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=larawrld&label=Visualiza%C3%A7%C3%B5es&color=ff69b4&style=for-the-badge" alt="Profile views" />
+💖 Obrigada pela visita!
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=FF69B4&height=120&section=footer"/>
 
 </div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=ff69b4&height=120&section=footer"/>
-
